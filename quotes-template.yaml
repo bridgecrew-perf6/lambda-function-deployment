@@ -12,4 +12,4 @@ Resources:
       MemorySize: 128
       Timeout: 7
       Role: >-
-        arn:aws:iam::243963644153:role/service-role/lambda-pipeline-role
+        arn:aws:iam::673982206489:role/AWSCloudFormationPipelineRole
