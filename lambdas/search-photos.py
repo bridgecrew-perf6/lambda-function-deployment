@@ -2,6 +2,7 @@ import json
 import boto3
 import requests
 from requests_aws4auth import AWS4Auth
+# testing codepipeline
 
 s3BucketUrl = "https://b2-photo-album.s3.amazonaws.com/"
 
